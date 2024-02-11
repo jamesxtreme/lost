@@ -109,7 +109,7 @@
     },
     "OPENAI_API_KEY": {
       "description": "put your OPENAI api key here.Get it from beta.openai.com ",
-      "value": "",
+      "value": "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",
       "required" :true
     }, 
     "ELEVENLAB_API_KEY": {
@@ -119,7 +119,7 @@
     }, 
     "REMOVE_BG_KEY": {
       "description": "put your REMOVE BG KEY here.Get it from removeBg.com ",
-      "value": "",
+      "value": "DJwc34NaWmhXmDxEeh6YUEmm",
       "required" :false
     },
     "MODE": {
