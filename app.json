@@ -1,7 +1,7 @@
 {
-  "name": "suhail-md",
-  "description": "I am Suhail-Md Whatsapp Chuddy Buddy built in NodeJs to make experience better\n\t if Any Problem : www.youtube.com/c/SuhailTechInfo",
-  "logo": "https://telegra.ph/file/d5b1c3544fedc23e11a06.jpg",
+  "name": "Gifted-Tech",
+  "description": "Hi there, I am Gifted Tech Whatsapp Chuddy Buddy built in NodeJs to make experience better\n\t if Any Problem : www.youtube.com/c/giftedtechnexus",
+  "logo": "https://telegra.ph/file/54efddccf41281ad7ec51.jpg",
   "keywords": ["whatsappbot", "suhailMd", "suhail Md bot", "Suhail-Md", "SuhailMdWhatsaooBot", "SuhailWaBot","SuhailMD","Suhail Md Whatsapp Bot","multi device"],
   "success_url": "/suhail/",
   "app_url": "/suhail/",
@@ -9,59 +9,59 @@
   "env": {
     "OWNER_NAME": {
       "description": "Name of Bot Owner",    
-      "value": "Suhail Ser",
+      "value": "ɢɪғᴛᴇᴅ ᴛᴇᴄʜ🔥",
       "required" :true
     },   
      
     "WELCOME": {
-      "description": "put 'false' or 'true' to enable & disable WELCOME ",
+      "description": "put 'false' or 'true' to enable & disable automatic group WELCOME ",
       "value": "false",
-      "required" :false
+      "required" :true
     },
      
     "GOODBYE": {
-      "description": "put 'false' or 'true' to enable & disable GOODBYE ",
+      "description": "put 'false' or 'true' to enable & disable automatic group GOODBYE ",
       "value": "false",
-      "required" :false
+      "required" :true
     },
     "BOT_NAME": {
       "description": " NAME FOR BOT",
-      "required" :false,    
-      "value": "sᴜʜᴀɪʟ-ᴍᴅ"
+      "required" :true,    
+      "value": "ɢɪғᴛᴇᴅ ᴛᴇᴄʜ🔥"
     }, 
     "IMAGE": {
       "description": "Image for bot",
-      "required" :false,    
-      "value": "https://telegra.ph/file/d5b1c3544fedc23e11a06.jpg"
+      "required" :true,    
+      "value": "https://telegra.ph/file/54efddccf41281ad7ec51.jpg"
     }, 
     "TZ": {
       "description": "Put TIME_ZONE according to your location",
-      "required" :false,    
-      "value": "Asia/Karachi"
+      "required" :true,    
+      "value": "Africa/Nairobi"
     },  
     "FLUSH": {
-      "description": " Make it 'true' if bot connected but not responed (After deployement!)",
-      "required" :false,    
+      "description": " Make it 'true' if bot connected but not responding (After deployement!)",
+      "required" :true,    
       "value": "true"
     }, 
     "WARN_COUNT": {
       "description": " Warn count for users to kick/block when warn limit exceed!",
-      "required" :false,    
-      "value": "3"
+      "required" :true,    
+      "value": "5"
     }, 
     "READ_COMMAND": {
       "description": " Read bot cmds",
-      "required" :false,    
-      "value": "false"
+      "required" :true,    
+      "value": "true"
     }, 
     "AUTO_SAVE_STATUS": {
       "description": " Auto save whatsapp status", 
-      "required" :false,   
+      "required" :true,   
       "value": "false"
     }, 
     "HEROKU_API_KEY": {
       "description": "Put Your Heroku Api Key Here",
-      "value": "",
+      "value": "1a63355e-a482-4e92-b6f4-f47f2c160e7d",
       "required" :true 
     },   
     "HEROKU_APP_NAME": {
@@ -70,29 +70,29 @@
     "required" :true
     }, 
     "WAPRESENCE": {
-      "description": "Fill the value: 'unavailable'(for nothing) | 'available'(for alwaysonline) | 'composing'(for typing) | 'recording' | 'paused' ",
-      "required" :false,
-      "value": "unavailable"
+      "description": "Fill the value: 'unavailable'(for nothing) | 'available'(for alwaysonline) | 'composing'(for always online and virtual typing) | 'recording'(for always online and virtual recording audio) | 'paused' ",
+      "required" :true,
+      "value": "available"
     },
     "AUTO_READ_STATUS": {
-      "description": "Fill the value true if you want bot view your Statuses.",
-      "required" :false,
+      "description": "Fill the value true if you want bot to automatically view your Statuses.",
+      "required" :true,
       "value": "true"
     }, 
     "MSGS_IN_LOG": {
       "description": "Fill the value true if you want to see Messages in Console.",
-      "required" :false,
+      "required" :true,
       "value": "false"
     },
     "READ_MESSAGE": {
-      "description": "Fill the value true if you want bot to read all messages.",
-      "required" :false,
+      "description": "Fill the value true if you want bot to read all messages that is auto blue ticks.",
+      "required" :true,
       "value": "false"
     },
     "DISABLE_PM": {
       "description": "Disable bot in pm, Take it false if you wanna run bot in your pm (if MODE is Public)",
-      "value": "false",
-      "required" :false
+      "value": "true",
+      "required" :true
     },
     "PREFIX": {
       "description": "Enter your desired prefix for bot.",
@@ -100,7 +100,7 @@
     },
     "OWNER_NUMBER": {
       "description": "The phone numbers of the users who you want to be admin for the bot (should be in international format without + and multiple numbers must be separated by a comma \",\")",
-      "value": "923184474176"
+      "value": "254762016057"
     },
     "SESSION_ID": {
       "description": "put your SESSION_ID here.",
@@ -109,13 +109,13 @@
     },
     "OPENAI_API_KEY": {
       "description": "put your OPENAI api key here.Get it from beta.openai.com ",
-      "value": "",
-      "required" :false
+      "value": "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",
+      "required" :true
     }, 
     "ELEVENLAB_API_KEY": {
       "description": "Put your ElevenLab api key here for Aitts. Watch tutorial from https://youtu.be/HCDcdPtkwg4 ",
-      "value": "",
-      "required" :false
+      "value": "3e57046161ccf9ac1f4b9e03828a5fe9",
+      "required" :true
     }, 
     "REMOVE_BG_KEY": {
       "description": "put your REMOVE BG KEY here.Get it from removeBg.com ",
@@ -128,12 +128,12 @@
     },
     "PACK_NAME": {
       "description": "Put Sticker Pack_Name.",
-      "value": "Suhail Md",
+      "value": "ɢɪғᴛᴇᴅ ᴛᴇᴄʜ🔥",
       "required": false 
     },
     "PACK_AUTHER": {
       "description": "Put Sticker Author_Name.",
-      "value": "",
+      "value": "Whatsappbot",
       "required": false 
     }
   }, 
