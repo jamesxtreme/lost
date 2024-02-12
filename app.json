@@ -1,6 +1,6 @@
 {
   "name": "Gifted-Tech",
-  "description": "Hi there, I am Gifted Tech Whatsapp Chuddy Buddy built in NodeJs to make experience better\n\t if Any Problem : www.youtube.com/c/giftedtechnexus",
+  "description": "Hi there, I am Gifted Tech Whatsapp Chuddy Buddy built in NodeJs to make experience better\n\t Incase of Any Problem Whatsapp me on: +254728782591",
   "logo": "https://telegra.ph/file/54efddccf41281ad7ec51.jpg",
   "keywords": ["whatsappbot", "suhailMd", "suhail Md bot", "Suhail-Md", "SuhailMdWhatsaooBot", "SuhailWaBot","SuhailMD","Suhail Md Whatsapp Bot","multi device"],
   "success_url": "/suhail/",
@@ -100,7 +100,7 @@
     },
     "OWNER_NUMBER": {
       "description": "The phone numbers of the users who you want to be admin for the bot (should be in international format without + and multiple numbers must be separated by a comma \",\")",
-      "value": "254762016957"
+      "value": "254728782591"
     },
     "SESSION_ID": {
       "description": "put your SESSION_ID here.",
