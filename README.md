@@ -35,7 +35,7 @@
 ---
 
 <p align="center">
-  <a href="https://github.com/Giftedmaurice/Gifted-Tech"><b>Suhail-Md</b></a> Support Deploy On...
+  <a href="https://github.com/Giftedmaurice/Gifted-Tech"><b>Gifted-Tech</b></a> Support Deploy On...
 </p>
 
 <p align="center">
