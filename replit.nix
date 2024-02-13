@@ -9,7 +9,7 @@
         pkgs.libwebp
         pkgs.speedtest-cli
         pkgs.wget
-        pkgs.yarnn
+        pkgs.yarn
         pkgs.libuuid
     ]; 
     env = {
