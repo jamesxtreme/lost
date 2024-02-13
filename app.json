@@ -27,7 +27,7 @@
     "BOT_NAME": {
       "description": " NAME FOR BOT",
       "required" :true,    
-      "value": "𝗚𝗜𝗙𝗧𝗘𝗗 𝗕𝗢𝗧"
+      "value": "𝗚𝗜𝗙𝗧𝗘𝗗 𝗠𝗗"
     }, 
     "IMAGE": {
       "description": "Image for bot",
