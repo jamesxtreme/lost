@@ -9,7 +9,7 @@
   "env": {
     "OWNER_NAME": {
       "description": "Name of Bot Owner",    
-      "value": "𝗚𝗜𝗙𝗧𝗘𝗗 𝗧𝗘𝗖𝗛",
+      "value": "ɢɪғᴛᴇᴅ ᴛᴇᴄʜ",
       "required" :true
     },   
     
