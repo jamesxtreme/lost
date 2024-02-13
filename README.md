@@ -35,7 +35,7 @@
 ---
 
 <p align="center">
-  <a href="https://github.com/Giftedmaurice/gifted-bot-md"><b>Gifted-Tech</b></a> Support Deploy On...
+  <a href="https://github.com/Giftedmaurice/gifted-bot-md"><b>Gifted-Bot</b></a> Support Deploy On...
 </p>
 
 <p align="center">
@@ -108,5 +108,5 @@
 ## 
 - *Gifted-Bot is not made by `WhatsApp Inc.` Sometimes or misusing the bot might `ban` your `WhatsApp account!`*
 - *In that case, I'm not responsible for banning your account.*
-- *Use Gifted-Tech at your own risk by keeping this warning in mind.*
+- *Use Gifted-Bot at your own risk by keeping this warning in mind.*
 - [`heroku`]( https://dashboard.heroku.com/new?template=https://github.com/Giftedmaurice/gifted-bot-md)
