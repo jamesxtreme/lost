@@ -9,7 +9,7 @@
   "env": {
     "OWNER_NAME": {
       "description": "Name of Bot Owner",    
-      "value": "ɢɪғᴛᴇᴅ ᴛᴇᴄʜ🔥",
+      "value": "ɢɪғᴛᴇᴅ ᴛᴇᴄʜ",
       "required" :true
     },   
     
@@ -27,7 +27,7 @@
     "BOT_NAME": {
       "description": " NAME FOR BOT",
       "required" :true,    
-      "value": "ɢɪғᴛᴇᴅ ᴛᴇᴄʜ🔥"
+      "value": "ɢɪғᴛᴇᴅ ᴛᴇᴄʜ"
     }, 
     "IMAGE": {
       "description": "Image for bot",
