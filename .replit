@@ -1,7 +1,7 @@
 run = "npm start || yarn start || node lib/client.js"
 # stop =  "npm stop || yarn stop"
 entrypoint = "README.md"
-hidden = [".config"].
+hidden = [".config"]
 # modules = ["nodejs-20:v8-20230920-bd784b9"]
 
 
