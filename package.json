@@ -1,7 +1,7 @@
 {
    "name": "gifted-tech",
    "version": "1.2.8-api",
-   "description": "Multi device whatsapp bot by GiftedTech.",
+   "description": "Multi device whatsapp bot developed by GiftedTech.",
    "main": "lib/client.js",
    "type": "commonjs",
    "engines" : { "node": "v18.16.0", "npm": "9.5.1" },
