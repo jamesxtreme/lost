@@ -12,7 +12,7 @@
       "value": "ɢɪғᴛᴇᴅ ᴛᴇᴄʜ🔥",
       "required" :true
     },   
-     
+    
     "WELCOME": {
       "description": "put 'false' or 'true' to enable & disable automatic group WELCOME ",
       "value": "false",
