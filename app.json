@@ -96,14 +96,17 @@
     },
     "PREFIX": {
       "description": "Enter your desired prefix for bot.",
+      "required" :true,
       "value": "."
     },
     "OWNER_NUMBER": {
       "description": "The phone numbers of the users who you want to be admin for the bot (should be in international format without + and multiple numbers must be separated by a comma \",\")",
+      "required" :true,
       "value": "254728782591"
     },
     "SESSION_ID": {
       "description": "put your SESSION_ID here.",
+      "required" :true,
       "value": ""
   
     },
@@ -120,21 +123,22 @@
     "REMOVE_BG_KEY": {
       "description": "put your REMOVE BG KEY here.Get it from removeBg.com ",
       "value": "DJwc34NaWmhXmDxEeh6YUEmm",
-      "required" :false
+      "required" :true
     },
     "MODE": {
       "description": "Worktype of your bot. Use public or private, if it is private then only bot number can use it. If public then everyone can use it.",
+      "required" :true,
       "value": "private"
     },
     "PACK_NAME": {
       "description": "Put Sticker Pack_Name.",
       "value": "ɢɪғᴛᴇᴅ ᴛᴇᴄʜ🔥",
-      "required": false 
+      "required": true 
     },
     "PACK_AUTHER": {
       "description": "Put Sticker Author_Name.",
       "value": "Whatsappbot",
-      "required": false 
+      "required": true 
     }
   }, 
   "addons": [
