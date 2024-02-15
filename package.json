@@ -1,5 +1,5 @@
 {
-   "name": "gifted-tech",
+   "name": "gifted-md",
    "version": "1.2.8-api",
    "description": "Multi device whatsapp bot developed by GiftedTech.",
    "main": "lib/client.js",
@@ -69,10 +69,10 @@
    },
    "repository": {
              "type": "git",
-             "url": "git+https://github.com/Giftedmaurice/Gifted-Tech.git"
+             "url": "git+https://github.com/Giftedmaurice/gifted-bot-md.git"
    },
    "bugs": {
-             "url": "https://github.com/Giftedmaurice/Gifted-Tech/issues"
+             "url": "https://github.com/Giftedmaurice/gifted-bot-md/issues"
    },
-   "homepage": "https://github.com/Giftedmaurice/Gifted-Tech#readme"
+   "homepage": "https://github.com/Giftedmaurice/gifted-bot-md#readme"
 }
