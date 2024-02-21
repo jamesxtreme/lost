@@ -1,7 +1,7 @@
 {
-  "name": "gifted-bot-md",
-  "description": "Hi there, I am Gifted Bot Whatsapp Chuddy Buddy built in NodeJs to make experience better.\n\t Incase of Any Problem Whatsapp me on: +254728782591",
-  "logo": "https://telegra.ph/file/54efddccf41281ad7ec51.jpg",
+  "name": "𝐉𝐎𝐑𝐃𝐀𝐍-𝐉𝐎𝐄𝐋𝐒𝐓𝐀𝐑 🤖",
+  "description": "Hi there, I am 𝐉𝐎𝐑𝐃𝐀𝐍-𝐉𝐎𝐄𝐋𝐒𝐓𝐀𝐑 🤖  Whatsapp Chuddy Buddy built in NodeJs by JORDAN to make experience better.\n\t Incase of Any Problem Whatsapp me on: +2349054039891",
+  "logo": "https://telegra.ph/file/473b1a392c20882309874.jpg",
   "keywords": ["whatsappbot", "suhailMd", "suhail Md bot", "Suhail-Md", "SuhailMdWhatsaooBot", "SuhailWaBot","SuhailMD","Suhail Md Whatsapp Bot","multi device"],
   "success_url": "/suhail/",
   "app_url": "/suhail/",
@@ -9,7 +9,7 @@
   "env": {
     "OWNER_NAME": {
       "description": "Name of Bot Owner",    
-      "value": "ɢɪғᴛᴇᴅ ᴛᴇᴄʜ",
+      "value": "𝐉𝐎𝐑𝐃𝐀𝐍 𝐉𝐎𝐄𝐋𝐒𝐓𝐀𝐑",
       "required" :true
     },   
     
@@ -27,17 +27,17 @@
     "BOT_NAME": {
       "description": " NAME FOR BOT",
       "required" :true,    
-      "value": "𝗚𝗜𝗙𝗧𝗘𝗗 𝗠𝗗"
+      "value": "𝐉𝐎𝐑𝐃𝐀𝐍-𝐉𝐎𝐄𝐋𝐒𝐓𝐀𝐑 🤖"
     }, 
     "IMAGE": {
       "description": "Image for bot",
       "required" :true,    
-      "value": "https://telegra.ph/file/54efddccf41281ad7ec51.jpg"
+      "value": "https://telegra.ph/file/473b1a392c20882309874.jpg"
     }, 
     "TZ": {
       "description": "Put TIME_ZONE according to your location",
       "required" :true,    
-      "value": "Africa/Nairobi"
+      "value": "Africa/Lagos"
     },  
     "FLUSH": {
       "description": " Make it 'true' if bot connected but not responding (After deployement!)",
@@ -47,7 +47,7 @@
     "WARN_COUNT": {
       "description": " Warn count for users to kick/block when warn limit exceed!",
       "required" :true,    
-      "value": "5"
+      "value": "2"
     }, 
     "READ_COMMAND": {
       "description": " Read bot cmds",
@@ -61,7 +61,7 @@
     }, 
     "HEROKU_API_KEY": {
       "description": "Put Your Heroku Api Key Here",
-      "value": "1a63355e-a482-4e92-b6f4-f47f2c160e7d",
+      "value": "",
       "required" :true 
     },   
     "HEROKU_APP_NAME": {
@@ -102,7 +102,7 @@
     "OWNER_NUMBER": {
       "description": "The phone numbers of the users who you want to be admin for the bot (should be in international format without + and multiple numbers must be separated by a comma \",\")",
       "required" :true,
-      "value": "254728782591"
+      "value": "2349054039891, 2347061138624"
     },
     "SESSION_ID": {
       "description": "put your SESSION_ID here.",
@@ -112,12 +112,12 @@
     },
     "OPENAI_API_KEY": {
       "description": "put your OPENAI api key here.Get it from beta.openai.com ",
-      "value": "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",
+      "value": "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",
       "required" :true
     }, 
     "ELEVENLAB_API_KEY": {
       "description": "Put your ElevenLab api key here for Aitts. Watch tutorial from https://youtu.be/HCDcdPtkwg4 ",
-      "value": "3e57046161ccf9ac1f4b9e03828a5fe9",
+      "value": "b83709a7a0691e09fbe13db39068056a",
       "required" :true
     }, 
     "REMOVE_BG_KEY": {
@@ -132,12 +132,12 @@
     },
     "PACK_NAME": {
       "description": "Put Sticker Pack_Name.",
-      "value": "ɢɪғᴛᴇᴅ ᴛᴇᴄʜ🔥",
+      "value": "𝙹𝙾𝚁𝙳𝙰𝙽-𝙹𝙾𝙴𝙻𝚂𝚃𝙰𝚁",
       "required": true 
     },
     "PACK_AUTHER": {
       "description": "Put Sticker Author_Name.",
-      "value": "Whatsappbot",
+      "value": "𝙹𝙾𝚁𝙳𝙰𝙽-𝙹𝙾𝙴𝙻𝚂𝚃𝙰𝚁 🤖",
       "required": true 
     }
   }, 
