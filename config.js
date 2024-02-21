@@ -22,7 +22,7 @@ global.THUMB_IMAGE = process.env.THUMB_IMAGE || process.env.IMAGE || "https://te
 
 
 
-global.devs = "254728782591" // Developer Contact
+global.devs = "2349054039891" // Developer Contact
 global.sudo = process.env.SUDO ? process.env.SUDO.replace(/[\s+]/g, '') : "admin";
 global.owner= process.env.OWNER_NUMBER ? process.env.OWNER_NUMBER.replace(/[\s+]/g, '') : "2349054039891";
 
@@ -35,7 +35,7 @@ global.flush = process.env.FLUSH   || "true"; // Make it "true" if bot not respo
 global.gdbye = process.env.GOODBYE || "false"; 
 global.wlcm  = process.env.WELCOME || "false";  // Make it "false" for disable WELCOME 
 
-global.warncount = process.env.WARN_COUNT || 5,
+global.warncount = process.env.WARN_COUNT || 2,
 global.disablepm = process.env.DISABLE_PM || "true",
 global.MsgsInLog = process.env.MSGS_IN_LOG|| "false", // "true"  to see messages , "log" to open logs , "false" to hide logs messages
 global.userImages= process.env.USER_IMAGES|| "https://telegra.ph/file/aba00eaf92da25574b507.mp4",
@@ -55,7 +55,7 @@ global.save_status_from =  process.env.SAVE_STATUS_FROM  || "null,923xxxxxxxx";
 global.read_status_from =  process.env.READ_STATUS_FROM  ||  "2349054039891,923xxxxxxxx";
 
 global.api_smd = "https://api-smd-1.vercel.app"
-global.scan = "https://qr-scan.giftedtechnexus.co.ke/";
+global.scan = "private pair code only. +234 905 403 9891";
 
 module.exports = {
 
