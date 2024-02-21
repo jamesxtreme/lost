@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://github.com/jamesxtreme/gifted-bot-md">
-    <img alt="Suhail docs" height="300" src="https://telegra.ph/file/07374c51b44c16beee6cd.jpg">
+    <img alt="Suhail docs" height="300" src="https://telegra.ph/file/473b1a392c20882309874.jpg">
   </a>
 </p>
     
@@ -97,7 +97,7 @@
 
 
 ### Thanks To
-- [Gifted Tech](https://github.com/jamesxtreme) 
+- [JORDAN-JOELSTAR x Gifted Tech](https://github.com/jamesxtreme) 
 
 
 
