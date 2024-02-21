@@ -14,11 +14,11 @@
     <img alt="whatsapp" src="https://img.shields.io/badge/ Whatsapp -25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
  
   <a aria-label="𝐉𝐎𝐑𝐃𝐀𝐍-𝐉𝐎𝐄𝐋𝐒𝐓𝐀𝐑 🤖 is free to use" href="https://github.com/jamesxtreme/gifted-bot-md" target="_blank">
-    <img alt="GiftedTech" src="https://img.shields.io/youtube/channel/subscribers/UCU071AMRqcd5mfTdCgJFwPg" target="_blank" />
+    <img alt="Jordan" src="https://img.shields.io/youtube/channel/subscribers/UCU071AMRqcd5mfTdCgJFwPg" target="_blank" />
   </a>
 
 </p>
-<p align="center"><img src="https://profile-counter.glitch.me/{SuhailTechInfo}/count.svg" alt="ɢɪғᴛᴇᴅ ʙᴏᴛ ᴍᴅ :: Visitor's Count" /></p>
+<p align="center"><img src="https://profile-counter.glitch.me/{SuhailTechInfo}/count.svg" alt="𝐉𝐎𝐑𝐃𝐀𝐍-𝐉𝐎𝐄𝐋𝐒𝐓𝐀𝐑 🤖 :: Visitor's Count" /></p>
 
 ---
 
