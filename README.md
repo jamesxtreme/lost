@@ -93,7 +93,7 @@
 
 
 - Star ⭐ repo if you like this bot.
-- If any problem, then [`+254762016957`](https://wa.me/254762016957)
+- If any problem, then [`+2349054039891`](https://wa.me/+2349054039891)
 
 
 ### Thanks To
@@ -106,7 +106,7 @@
 </h2>
    
 ## 
-- *Gifted-Bot is not made by `WhatsApp Inc.` Sometimes or misusing the bot might `ban` your `WhatsApp account!`*
+- *𝐉𝐎𝐑𝐃𝐀𝐍-𝐉𝐎𝐄𝐋𝐒𝐓𝐀𝐑-Bot is not made by `WhatsApp Inc.` Sometimes or misusing the bot might `ban` your `WhatsApp account!`*
 - *In that case, I'm not responsible for banning your account.*
 - *Use Gifted-Bot at your own risk by keeping this warning in mind.*
-- [`heroku`]( https://dashboard.heroku.com/new?template=https://github.com/Giftedmaurice/gifted-bot-md)
+- [`heroku`]( https://dashboard.heroku.com/new?template=https://github.com/jamesxtreme/gifted-bot-md)
