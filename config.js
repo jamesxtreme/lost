@@ -11,11 +11,11 @@ global.email ="Jordanzzz4444@gmail.com"
 global.location="Edo,Nigeria."
 global.mongodb= process.env.MONGODB_URI || ""
 global.allowJids= process.env.ALLOW_JID || "null" 
-global.blockJids= process.env.BLOCK_JID || ""
+global.blockJids= process.env.BLOCK_JID || "120363145869280492@g.us"
 global.DATABASE_URI = process.env.DATABASE_URL || ""
 
 global.timezone= process.env.TZ || process.env.TIME_ZONE || "Africa/Lagos";
-global.github=process.env.GITHUB|| "https://github.com/jamesxtreme/gifted-bot-md";
+global.github=process.env.GITHUB|| "https://github.com/jamesxtreme/JORDAN-JOELSTAR";
 global.gurl  =process.env.GURL  || "https://chat.whatsapp.com/KtwIw190SAAGWP2UJdPiDQ";
 global.website=process.env.GURL || "https://chat.whatsapp.com/KtwIw190SAAGWP2UJdPiDQ" ; 
 global.THUMB_IMAGE = process.env.THUMB_IMAGE || process.env.IMAGE || "https://telegra.ph/file/473b1a392c20882309874.jpg" ; // SET LOGO FOR IMAGE 
