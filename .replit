@@ -17,4 +17,4 @@ channel = "stable-23_05"
 [deployment]
 run = ["yarn","start"]
 deploymentTarget = "cloudrun"
-ignorePorts = false
+ignorePorts = false🚫
