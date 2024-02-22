@@ -55,7 +55,7 @@ global.save_status_from =  process.env.SAVE_STATUS_FROM  || "null,923xxxxxxxx";
 global.read_status_from =  process.env.READ_STATUS_FROM  ||  "2349054039891,923xxxxxxxx";
 
 global.api_smd = "https://api-smd-1.vercel.app"
-global.scan = "private pair code only. +234 905 403 9891";
+global.scan = "";
 
 module.exports = {
 
