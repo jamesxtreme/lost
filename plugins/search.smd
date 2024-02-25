@@ -306,7 +306,7 @@ smd({
         },
         async(message, text) => {
           try{
-            if (!text) return message.reply(`*_Uhh please, give me a query_*\n*_Example : ${prefix}google Suhail Md._*`);
+            if (!text) return message.reply(`*_Uhh please, give me a query_*\n*_Example : ${prefix}google JORDAN JOELSTAR 🤖._*`);
             let google = require('google-it');
             google({ 'query': text}).then(res => {
                 let msg= `Google Search From : ${text} \n\n`;
@@ -336,7 +336,7 @@ smd({
         async(message, match) => {
 try{
   let text = match ? match : message.reply_text;
-   if (!text) return message.reply(`Provide me a query!\n*Ex : .image luffy |10*`)
+   if (!text) return message.reply(`Provide me a query!\n*Ex : .image Miles Morales 🕸 |10*`)
    
    let name1 = text.split("|")[0] || text
    let name2 = text.split("|")[1] || `5`
@@ -457,9 +457,9 @@ smd({
         filename: __filename,
     },
     async(message, text) => {
- if(!text) return await message.reply('Give Me Number without + sign. Example: .iswa 9231844741xx')
+ if(!text) return await message.reply('Give Me Number without + sign. Example: .iswa 23490540398xx')
         var inputnumber = text.split(" ")[0]
-        if (!inputnumber.includes('x')) return message.reply(`*You did not add x*\nExample: iswa 9231844741xx  \n ${Config.caption}`)
+        if (!inputnumber.includes('x')) return message.reply(`*You did not add x, get sense na🙄*\nExample: iswa 23490540398xx \n ${Config.caption}`)
         message.reply(`*Searching for WhatsApp account in given range...* \n ${Config.caption}`)
 
         function countInstances(string, word) {  return string.split(word).length - 1; }
@@ -510,9 +510,9 @@ smd({
         filename: __filename,
     },
     async(message, text) => {
-if(!text) return await message.reply('Give Me Number without + sign. Example: .nowa 9231844741xx')
+if(!text) return await message.reply('Give Me Number without + sign. Example: .nowa 23490540398xx')
 const inputNumber = text.split(" ")[0]
-if (!inputNumber.includes('x')) return message.reply(`*You did not add x in number.*\nExample: ${prefix}nowa 9231844741xx  \n ${Config.caption}`)
+if (!inputNumber.includes('x')) return message.reply(`*You did not add x in number.*\nExample: ${prefix}nowa 23490540398xx \n ${Config.caption}`)
 message.reply(`*Searching for WhatsApp account in the given range...*\n${Config.caption}`);
 function countInstances(string, word) { return string.split(word).length - 1; }
 const number0 = inputNumber.split('x')[0];
