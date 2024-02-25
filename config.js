@@ -82,7 +82,7 @@ module.exports = {
   antilink_values:process.env.ANTILINK_VALUES|| "all",
   HEROKU: process.env.HEROKU_APP_NAME && process.env.HEROKU_API_KEY,
 
-  aitts_Voice_Id : process.env.AITTS_ID || "37",
+  aitts_Voice_Id : process.env.AITTS_ID || "1/2/3/4/5/6/7/8/9/10/11/12/13/14/15/16/17/18/19/20/21/22/23/24/25/26/27/28/29/30/31/32/33/34/35/36/37",
   ELEVENLAB_API_KEY: process.env.ELEVENLAB_API_KEY || "b83709a7a0691e09fbe13db39068056a",
   WORKTYPE: process.env.WORKTYPE||process.env.MODE || "private",
   LANG: process.env.THEME ? process.env.THEME.toUpperCase() : "JORDAN-JOELSTAR 🤖",
