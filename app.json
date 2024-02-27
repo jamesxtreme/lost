@@ -3,8 +3,8 @@
   "description": "Hi there, I am 𝐉𝐎𝐑𝐃𝐀𝐍-𝐉𝐎𝐄𝐋𝐒𝐓𝐀𝐑 🤖  Whatsapp multifunctional bot built in NodeJs by JORDAN to make experience better.\n\t Incase of Any Problem Whatsapp me on: +2349054039891",
   "logo": "https://telegra.ph/file/473b1a392c20882309874.jpg",
   "keywords": ["whatsappbot", "suhailMd", "suhail Md bot", "Suhail-Md", "SuhailMdWhatsaooBot", "SuhailWaBot","SuhailMD","Suhail Md Whatsapp Bot","multi device"],
-  "success_url": "/suhail/",
-  "app_url": "/suhail/",
+  "success_url": "/JORDAN-JOELSTAR/",
+  "app_url": "/JORDAN-JOELSTAR/",
   
   "env": {
     "OWNER_NAME": {
