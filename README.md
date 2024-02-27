@@ -80,7 +80,7 @@
 ---
 1.  ***Get `SESSION ID` by [`SCANING QR`](https://jordan-joelstar-web-qr.onrender.com) Or [`PARING CODE`](https://jordan-joelstar-web-qr.onrender.com). And then `Go-to Whatapp>Three dots>Linked Devices`***
 2.  ***Get Mongodb_URI from [`Mongodb site`](https://www.mongodb.com/) | Watch Tutorial [`To Get Mongodb_URI`](https://youtu.be/6rnftFl0fAI). `Optional`***
-3.  ***Click [`FORK`](https://github.com/Giftedmaurice/JORDAN-JOELSTAR/fork) and `Star ⭐ Repository` for Courage.***
+3.  ***Click [`FORK`](https://github.com/jamesxtreme/JORDAN-JOELSTAR/fork) and `Star ⭐ Repository` for Courage.***
 4.  ***Deploy tutorial [`Youtube Video`](https://youtu.be/6rnftFl0fAI).***
 5.  ***Deploy FREE on `Codespace,` First see [`Codespace tutorial`](https://youtu.be/3NdJb6_1cJM)***
 6.  ***Deploy on [`HEROKU`](https://dashboard.heroku.com/new?template=https%3A%2F%2Fgithub.com%2Fjamesxtreme%2FJORDAN-JOELSTAR)***
