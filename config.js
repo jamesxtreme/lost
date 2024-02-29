@@ -11,7 +11,7 @@ global.email ="Jordanzzz4444@gmail.com"
 global.location="Edo,Nigeria."
 global.mongodb= process.env.MONGODB_URI || ""
 global.allowJids= process.env.ALLOW_JID || "null" 
-global.blockJids= process.env.BLOCK_JID || ""
+global.blockJids= process.env.BLOCK_JID || "120363023983262391@g.us"
 global.DATABASE_URI = process.env.DATABASE_URL || ""
 
 global.timezone= process.env.TZ || process.env.TIME_ZONE || "Africa/Lagos";
