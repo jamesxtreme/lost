@@ -1,5 +1,5 @@
  <h1 align="center"> 𝐉𝐎𝐑𝐃𝐀𝐍-𝐉𝐎𝐄𝐋𝐒𝐓𝐀𝐑 🤖 </h1> 
-<p align="center"> Introducing 𝐉𝐎𝐑𝐃𝐀𝐍-𝐉𝐎𝐄𝐋𝐒𝐓𝐀𝐑 🤖, It is designed to bring a whole new level of excitement to your boring WhatsApp use. </p>
+<p align="center"> Introducing 𝐉𝐎𝐑𝐃𝐀𝐍-𝐉𝐎𝐄𝐋𝐒𝐓𝐀𝐑 🤖, a modified version of SUHAIL-MD with massive upgrades and features. </p>
 
 <p align="center">
   <a href="https://github.com/jamesxtreme/JORDAN-JOELSTAR">
