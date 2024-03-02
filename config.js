@@ -16,8 +16,8 @@ global.DATABASE_URI = process.env.DATABASE_URL || ""
 
 global.timezone= process.env.TZ || process.env.TIME_ZONE || "Africa/Lagos";
 global.github=process.env.GITHUB|| "https://github.com/jamesxtreme/JORDAN-JOELSTAR";
-global.gurl  =process.env.GURL  || "https://chat.whatsapp.com/KtwIw190SAAGWP2UJdPiDQ";
-global.website=process.env.GURL || "https://chat.whatsapp.com/KtwIw190SAAGWP2UJdPiDQ" ; 
+global.gurl  =process.env.GURL  || "https://whatsapp.com/channel/0029VaCamn3BKfi29OjdbG2P";
+global.website=process.env.GURL || "https://whatsapp.com/channel/0029VaCamn3BKfi29OjdbG2P" ; 
 global.THUMB_IMAGE = process.env.THUMB_IMAGE || process.env.IMAGE || "https://telegra.ph/file/473b1a392c20882309874.jpg" ; // SET LOGO FOR IMAGE 
 
 
@@ -67,7 +67,7 @@ module.exports = {
   caption : process.env.CAPTION || "©JORDAN-JOELSTAR 🕸️" , // ```『 ᴘᴏᴡᴇʀᴇᴅ ʙʏ ɢɪғᴛᴇᴅ ᴛᴇᴄʜ 』```", //*『sᴜʙsᴄʀɪʙᴇ • ɢɪғᴛᴇᴅ ᴛᴇᴄʜ』*\n https://whatsapp.com/channel/0029VaJmfmTDJ6H7CmuBss0o"),
  
   author : process.env.PACK_AUTHER|| "𝙹𝙾𝚁𝙳𝙰𝙽-𝙹𝙾𝙴𝙻𝚂𝚃𝙰𝚁🤖",
-  packname: process.env.PACK_NAME || "𝙹𝙾𝚁𝙳𝙰𝙽-𝙹𝙾𝙴𝙻𝚂𝚃𝙰𝚁",
+  packname: process.env.PACK_NAME || "𝙹𝙾𝚁𝙳𝙰𝙽-𝙹𝙾𝙴𝙻𝚂𝚃𝙰𝚁🤖",
   botname : process.env.BOT_NAME  || "𝙹𝙾𝚁𝙳𝙰𝙽-𝙹𝙾𝙴𝙻𝚂𝚃𝙰𝚁 🤖",
   ownername:process.env.OWNER_NAME|| "JORDAN JOELSTAR",
 
