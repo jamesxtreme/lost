@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=🕸️HI+There🕸️;🤖I'm+Jordan-Joelstar🤖;🕷️An+upgraded+version+of+Suhail+Md🕷️;🤟🏽with+massive+updates+and+features🤟🏽;🎧Created+By+Jordan-Joelstar🎧)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=🕸️HI+There🕸️;🤖I'm+Jordan-Joelstar🤖;🕷️An+upgraded+version+of+Suhail-Md🕷️;🤟🏽with+huge+updates+and+features🤟🏽;🎧Created+By+Jordan-Joelstar🎧)](https://git.io/typing-svg)
 
 <p align="center">
   <a href="https://github.com/jamesxtreme/JORDAN-JOELSTAR">
