@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://github.com/jamesxtreme/JORDAN-JOELSTAR">
-    <img alt="Suhail docs" height="300" src="https://telegra.ph/file/1c8ec3a8de7ee14ee0a7c.jpg">
+    <img alt="Suhail docs" height="300" src="https://telegra.ph/file/e216712012916c0a0bffb.jpg">
   </a>
 </p>
     
