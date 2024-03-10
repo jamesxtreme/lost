@@ -1,5 +1,4 @@
- <h1 align="center"> 𝐉𝐎𝐑𝐃𝐀𝐍-𝐉𝐎𝐄𝐋𝐒𝐓𝐀𝐑 🤖 </h1> 
-<p align="center"> Introducing 𝐉𝐎𝐑𝐃𝐀𝐍-𝐉𝐎𝐄𝐋𝐒𝐓𝐀𝐑 🤖, a modified version of SUHAIL-MD with massive upgrades and features. </p>
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=🕸️HI+There🕸️;🤖I'm+Jordan-Joelstar🤖;🕷️An+upgraded+version+of+Suhail+Md🕷️;🤟🏽with+massive+updates+and+features🤟🏽;🎧Created+By+Jordan-Joelstar🎧)](https://git.io/typing-svg)
 
 <p align="center">
   <a href="https://github.com/jamesxtreme/JORDAN-JOELSTAR">
