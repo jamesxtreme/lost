@@ -91,7 +91,7 @@
 5.  ***Deploy FREE on `Codespace,` First see [`Codespace tutorial`](https://youtu.be/3NdJb6_1cJM)***
 6.  ***DEPLOY ON HEROKU***
     <br>
-<a href=' https://heroku.com/deploy?template= https://github.com/jamesxtreme/JORDAN-JOELSTAR' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-black?style=for-the-badge&logo=heroku&logoColor=white'/></a>
+<a href=' https://heroku.com/deploy?template= https://github.com/jamesxtreme/JORDAN-JOELSTAR' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-black?style=for-the-badge&logo=heroku&logoColor=blue'/></a>
 
 
 
