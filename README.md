@@ -39,7 +39,7 @@
 
 <p align="center">
     <br>
-<a href=' https://heroku.com/deploy?template= https://github.com/jamesxtreme/JORDAN-JOELSTAR' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-black?style=for-the-badge&logo=heroku&logoColor=blue'/></a>
+<a href=' https://heroku.com/deploy?template= https://github.com/jamesxtreme/JORDAN-JOELSTAR' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-HEROKU-blue?style=for-the-badge&logo=heroku&logoColor=blue'/></a>
 
 
 </p>
