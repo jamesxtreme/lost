@@ -57,7 +57,7 @@
 
 ## Bot Games
 ---
-1. ***Connect Four Game.***
+1. [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=😅arli😅)](https://git.io/typing-svg)
 2.  ***Tic Tac Toe.***
 3.  ***Number Guessing Game.***
 4.  ***Word chain Game(wcg).***
