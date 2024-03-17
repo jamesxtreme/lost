@@ -55,16 +55,16 @@
 
 
 
-## Bot Games
+## BOT FEATURES
 ---
-1. [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=😅arli😅)](https://git.io/typing-svg)
-2.  ***Tic Tac Toe.***
-3.  ***Number Guessing Game.***
-4.  ***Word chain Game(wcg).***
-5.  ***Hidden Card Game.***
-6.  ***Rolling Dice.***
-7.  ***Character Guessing Game.***
-8.  ***Capital of City Finding.***
+ [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=ANIME-PICS,+GENERAL,+MISC,+NEW,+FUN)](https://git.io/typing-svg)
+  ***Tic Tac Toe.***
+  ***Number Guessing Game.***
+  ***Word chain Game(wcg).***
+  ***Hidden Card Game.***
+  ***Rolling Dice.***
+  ***Character Guessing Game.***
+  ***Capital of City Finding.***
 ##
 
 
