@@ -77,7 +77,14 @@
    
 ## Deployment Methods
 ---
-1.  ***Get `SESSION ID FOR 𝙹𝙾𝚁𝙳𝙰𝙽-𝙹𝙾𝙴𝙻𝚂𝚃𝙰𝚁🤖` by [`SCANNING QR`](https://jweb-3db7776831b4.herokuapp.com/) or [`SCANNING QR2`](https://replit.com/@jordanzzz4444/JJ-PAIR#index.js) Or [`PARING CODE`](-------NOT-AVAILABLE-FOR-NOW--------). And then `Go-to Whatapp>Three dots>Linked Devices`***
+2. Get Session ID (SERVER 1)
+    <br>
+<a href='https://jweb-3db7776831b4.herokuapp.com/' target="_blank"><img alt='SESSION ID' src='https://img.shields.io/badge/Session_id-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
+
+2. Get Session ID (SERVER 2)
+    <br>
+<a href='https://replit.com/@jordanzzz4444/JJ-PAIR#index.js' target="_blank"><img alt='SESSION ID' src='https://img.shields.io/badge/Session_id_2-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
+
 2.  ***Get Mongodb_URI from [`Mongodb site`](https://www.mongodb.com/) | Watch Tutorial [`To Get Mongodb_URI`](https://youtu.be/6rnftFl0fAI). `Optional`***
 3.  ***Click [`FORK`](https://github.com/jamesxtreme/JORDAN-JOELSTAR/fork) and `Star ⭐ Repository` for Courage.***
 4.  ***Deploy tutorial [`Youtube Video`](https://youtu.be/6rnftFl0fAI).***
