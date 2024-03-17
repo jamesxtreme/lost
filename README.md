@@ -77,22 +77,25 @@
    
 ## Deployment Methods
 ---
-2. Get Session ID (SERVER 1)
+2. ***Get Session ID (SERVER 1)***
     <br>
 <a href='https://jweb-3db7776831b4.herokuapp.com/' target="_blank"><img alt='SESSION ID' src='https://img.shields.io/badge/Session_id-100000?style=for-the-badge&logo=scan&logoColor=blue&labelColor=black&color=black'/></a>
 
-2. Get Session ID (SERVER 2)
+2. ***Get Session ID (SERVER 2)***
     <br>
 <a href='https://replit.com/@jordanzzz4444/JJ-PAIR#index.js' target="_blank"><img alt='SESSION ID' src='https://img.shields.io/badge/Session_id_2-100000?style=for-the-badge&logo=scan&logoColor=blue&labelColor=black&color=black'/></a>
 
-2.  ***Get Mongodb_URI from [`Mongodb site`](https://www.mongodb.com/) | Watch Tutorial [`To Get Mongodb_URI`](https://youtu.be/6rnftFl0fAI). `Optional`***
-3.  ***Click [`FORK`](https://github.com/jamesxtreme/JORDAN-JOELSTAR/fork) and `Star ⭐ Repository` for Courage.***
-4.  ***Deploy tutorial [`Youtube Video`](https://youtu.be/6rnftFl0fAI).***
-5. ***DEPLOY FREE ON CODESPACE. SEE TUTORIALS FIRST***
+
+3.  ***FORK JORDAN-JOELSTAR REPO***
+    <br>
+<a href='https://github.com/jamesxtreme/JORDAN-JOELSTAR/fork' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Fork Repo-100000?style=for-the-badge&logo=scan&logoColor=blue&labelColor=black&color=black'/></a>
+
+
+4. ***DEPLOY FREE ON CODESPACE. SEE TUTORIALS FIRST***
     <br>
 <a href='https://youtu.be/3NdJb6_1cJM?si=nLU3m8kcDN0x7OBT' target="_blank"><img alt='TUTORIALS/DEPLOY' src='https://img.shields.io/badge/TUTORIALS/DEPLOY -h?color=black&style=for-the-badge&logo=blue' width="96.35" height="28"/></a></p>
 
-6.  ***DEPLOY ON HEROKU***
+5.  ***DEPLOY ON HEROKU***
     <br>
 <a href=' https://heroku.com/deploy?template= https://github.com/jamesxtreme/JORDAN-JOELSTAR' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-black?style=for-the-badge&logo=heroku&logoColor=blue'/></a>
 
@@ -103,8 +106,8 @@
 ---
 
 
-- Star ⭐ repo if you like this bot.
-- If any problem, then [`+2349054039891`](https://wa.me/+2349054039891)
+- Star⭐ 𝙹𝙾𝚁𝙳𝙰𝙽-𝙹𝙾𝙴𝙻𝚂𝚃𝙰𝚁 🤖 repo if you like this bot.
+- If any problem, then [`Message me`](https://wa.me/+2349054039891)
 
 
 ### Thanks To
@@ -113,11 +116,10 @@
 
 
 
-<h2 align="center">  NOTICE
-</h2>
+
    
-## 
-- *𝐉𝐎𝐑𝐃𝐀𝐍-𝐉𝐎𝐄𝐋𝐒𝐓𝐀𝐑-Bot is not made by `WhatsApp Inc.` Sometimes or misusing the bot might `ban` your `WhatsApp account!`*
+### NOTICE
+- *𝐉𝐎𝐑𝐃𝐀𝐍-𝐉𝐎𝐄𝐋𝐒𝐓𝐀𝐑-Bot is not made by `WhatsApp Inc.`  Misusing the bot might `ban` your `WhatsApp account!`*
 - *In that case, I'm not responsible for banning your account.*
 - *Use 𝐉𝐎𝐑𝐃𝐀𝐍 𝐉𝐎𝐄𝐋𝐒𝐓𝐀𝐑-Bot at your own risk by keeping this warning in mind.*
-- [`heroku`]( https://dashboard.heroku.com/new?template=https://github.com/jamesxtreme/JORDAN-JOELSTAR)
+
