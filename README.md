@@ -57,14 +57,14 @@
 
 ## BOT FEATURES
 ---
- [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=ANIME-PICS,+GENERAL,+MISC,+NEW,+FUN)](https://git.io/typing-svg)
-  ***Tic Tac Toe.***
-  ***Number Guessing Game.***
-  ***Word chain Game(wcg).***
-  ***Hidden Card Game.***
-  ***Rolling Dice.***
-  ***Character Guessing Game.***
-  ***Capital of City Finding.***
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=ANIME,+AI,+GAMES,+FUN)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=MEDIA,+DOWNLOADER,+LOGO,+EDITS)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=GROUP,+CHATS,+PRIVACY+USER)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=STICKER,+EMAIL,+CONVERTER,+AUTO-REPLY;AND+MUCH+MORE...)](https://git.io/typing-svg)
+  
+  
+  
+ 
 ##
 
 
