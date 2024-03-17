@@ -34,7 +34,7 @@
 ---
 
 <p align="center">
-  <a href="https://github.com/jamesxtreme/JORDAN-JOELSTAR"><b>𝐉𝐎𝐑𝐃𝐀𝐍-𝐉𝐎𝐄𝐋𝐒𝐓𝐀𝐑 🤖-Bot</b></a> Support Deploy On...
+  <a href="https://github.com/jamesxtreme/JORDAN-JOELSTAR"><b>𝐉𝐎𝐑𝐃𝐀𝐍-𝐉𝐎𝐄𝐋𝐒𝐓𝐀𝐑 🤖</b></a> Support Deploy On...
 </p>
 
 <p align="center">
@@ -90,7 +90,7 @@
 
 4. ***DEPLOY FREE ON CODESPACE. SEE TUTORIALS FIRST***
     <br>
-<a href='https://youtu.be/3NdJb6_1cJM?si=nLU3m8kcDN0x7OBT' target="_blank"><img alt='TUTORIALS/DEPLOY' src='https://img.shields.io/badge/TUTORIALS/DEPLOY -h?color=black&style=for-the-badge&logo=blue' width="96.35" height="28"/></a></p>
+<a href='https://youtu.be/3NdJb6_1cJM?si=nLU3m8kcDN0x7OBT' target="_blank"><img alt='TUTORIALS/DEPLOY' src='https://img.shields.io/badge/TUTORIALS/DEPLOY -h?color=blue&style=for-the-badge&logo=blue' width="96.35" height="28"/></a></p>
 
 5.  ***DEPLOY ON HEROKU***
     <br>
