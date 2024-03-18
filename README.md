@@ -94,7 +94,7 @@
 
 5.  ***DEPLOY ON HEROKU***
     <br>
-<a href=' https://heroku.com/deploy?template= https://github.com/jamesxtreme/JORDAN-JOELSTAR' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-black?style=for-the-badge&logo=heroku&logoColor=blue'/></a>
+<a href='https://heroku.com/deploy?template= https://github.com/jamesxtreme/JORDAN-JOELSTAR' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-black?style=for-the-badge&logo=heroku&logoColor=blue'/></a>
 
 6.  ***SEE TUTORIALS FOR HEROKU DEPLOY***
     <br>
