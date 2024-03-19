@@ -9,7 +9,7 @@
 
 <p align="center">
     <br>
-<a href='https://heroku.com/deploy?template= https://github.com/jamesxtreme/JORDAN-JOELSTAR' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-HEROKU-blue?style=for-the-badge&logo=heroku&logoColor=white'/></a>
+<a href='https://dashboard.heroku.com/new?template=https%3A%2F%2Fgithub.com%2Fjamesxtreme%2FJORDAN-JOELSTAR' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-HEROKU-blue?style=for-the-badge&logo=heroku&logoColor=white'/></a>
 
 
 </p>
@@ -51,19 +51,29 @@
     <br>
 <a href='https://github.com/jamesxtreme/JORDAN-JOELSTAR/fork' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Fork Repo-100000?style=for-the-badge&logo=scan&logoColor=blue&labelColor=black&color=black'/></a>
 
+4. ***DEPLOY FREE ON CODESPACE. SEE TUTORIALS FIRST***
+    <br>
+<a href='https://youtu.be/3NdJb6_1cJM?si=nLU3m8kcDN0x7OBT' target="_blank"><img alt='TUTORIALS/DEPLOY' src='https://img.shields.io/badge/TUTORIALS/DEPLOY -h?color=black&style=for-the-badge&logo=blue' width="96.35" height="28"/></a></p>
 
-5.  ***Deploy FREE on `Codespace,` First see [`Codespace tutorial`](https://youtu.be/3NdJb6_1cJM)***
-6.  ***Deploy on [`HEROKU`](https://dashboard.heroku.com/new?template=https%3A%2F%2Fgithub.com%2Fjamesxtreme%2FJORDAN-JOELSTAR)***
-7.  ***Deploy on [`Replit`](https://replit.com/github/Giftedmaurice/JORDAN-JOELSTAR)***
-8.  ***Deploy on [`Railway`](https://railway.app/template/GZOvIe?referralCode=wVDLrh)***
-9.  ***Deploy on [`Koyeb`](https://app.koyeb.com/apps/deploy?type=git&repository=github.com/SuhailTechInfo/Suhail-Md&branch=main&env[SESSION_ID]&env[OWNER_NUMBER]=2349054039891&env[MONGODB_URI]&&env[OWNER_NAME]=JORDAN-JOELSTAR&env[KOYEB_API]&env[PREFIX]=.&env[WAPRESENCE]&env[AUTO_READ_STATUS]=true&env[DISABLE_PM]=true&env[PACK_AUTHER]=whatsapp+bot&env[PACK_NAME]=ɢɪғᴛᴇᴅᴛᴇᴄʜ&env[STYLE]=0&env[MODE]=private&env[READ_MESSAGE]=false&env[THEME]=JORDAN-JOELSTAR&env[WARN_COUNT]=3&env[BLOCK_JID]=null&env[TIME_ZONE]=Africa/Nairobi&name=suhail-md&env[KOYEB_NAME]=suhail-md&env[SUDO]=null&env[THUMB_IMAGE]=https://telegra.ph/file/54efddccf41281ad7ec51.jpg)***
+5.  ***DEPLOY ON HEROKU***
+    <br>
+<a href='https://dashboard.heroku.com/new?template=https%3A%2F%2Fgithub.com%2Fjamesxtreme%2FJORDAN-JOELSTAR' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-black?style=for-the-badge&logo=heroku&logoColor=blue'/></a>
+
+6.  ***SEE TUTORIALS FOR HEROKU DEPLOY***
+    <br>
+<a href="https://youtu.be/d6FuP_ARfD0?si=N-g6s9ke9D1sHGCW"><img src="https://img.shields.io/badge/𝗬𝗢𝗨𝗧𝗨𝗕𝗘-black?style=watch%20video-critical?style=for-the-badge&logo=youtube&logoColor=blue">
+   <br>
+   
+
+
+
 
 ##
 ---
 
 
-- Star ⭐ repo if you like this bot.
-- If any problem, then [`+2349054039891`](https://wa.me/+2349054039891)
+- Star⭐ 𝙹𝙾𝚁𝙳𝙰𝙽-𝙹𝙾𝙴𝙻𝚂𝚃𝙰𝚁 🤖 repo if you like this bot.
+- If any problem, then [`Message me`](https://wa.me/+2349054039891)
 
 
 ### Thanks To
@@ -72,11 +82,9 @@
 
 
 
-<h2 align="center">  NOTICE
-</h2>
+
    
-## 
-- *𝐉𝐎𝐑𝐃𝐀𝐍-𝐉𝐎𝐄𝐋𝐒𝐓𝐀𝐑-Bot is not made by `WhatsApp Inc.` Sometimes or misusing the bot might `ban` your `WhatsApp account!`*
+### NOTICE
+- *𝐉𝐎𝐑𝐃𝐀𝐍-𝐉𝐎𝐄𝐋𝐒𝐓𝐀𝐑-Bot is not made by `WhatsApp Inc.`  Misusing the bot might `ban` your `WhatsApp account!`*
 - *In that case, I'm not responsible for banning your account.*
 - *Use 𝐉𝐎𝐑𝐃𝐀𝐍 𝐉𝐎𝐄𝐋𝐒𝐓𝐀𝐑-Bot at your own risk by keeping this warning in mind.*
-- [`heroku`]( https://dashboard.heroku.com/new?template=https://github.com/jamesxtreme/JORDAN-JOELSTAR)
