@@ -21,16 +21,11 @@
 
 
 
-## Bot Games
+## BOT FEATURES
 ---
-1. ***Connect Four Game.***
-2.  ***Tic Tac Toe.***
-3.  ***Number Guessing Game.***
-4.  ***Word chain Game(wcg).***
-5.  ***Hidden Card Game.***
-6.  ***Rolling Dice.***
-7.  ***Character Guessing Game.***
-8.  ***Capital of City Finding.***
+---
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=ANIME,+AI,+GAMES,+FUN;MEDIA,+DOWNLOADER,+LOGO,+EDITS;GROUP,+CHATS,+PRIVACY,+USER;STICKER,+EMAIL,+CONVERTER,+A-REPLY;AND+MUCH+MORE)](https://git.io/typing-svg)
+
 ##
 
 
