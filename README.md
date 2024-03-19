@@ -23,11 +23,7 @@
 
 
 ## BOT FEATURES
----
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=ANIME,+AI,+GAMES,+FUN)](https://git.io/typing-svg)
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=MEDIA,+DOWNLOADER,+LOGO,+EDITS)](https://git.io/typing-svg)
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=GROUP,+CHATS,+PRIVACY+USER)](https://git.io/typing-svg)
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=STICKER,+EMAIL,+CONVERTER,+AUTO-REPLY;AND+MUCH+MORE...)](https://git.io/typing-svg)
+
   
   
   
