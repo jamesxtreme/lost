@@ -1,20 +1,35 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=🕸️HI+There🕸️;🤖I'm+Jordan-Joelstar🤖;🕷️An+upgraded+version+of+Suhail-Md🕷️;🤟🏽with+huge+updates+and+features🤟🏽;🎧Created+By+Jordan-Joelstar🎧)](https://git.io/typing-svg)
+ <h1 align="center"> 𝐉𝐎𝐑𝐃𝐀𝐍-𝐉𝐎𝐄𝐋𝐒𝐓𝐀𝐑 🤖 </h1> 
+<p align="center"><img src="https://profile-counter.glitch.me/{JORDAN-JOELSTAR}/count.svg" alt="𝐉𝐎𝐑𝐃𝐀𝐍-𝐉𝐎𝐄𝐋𝐒𝐓𝐀𝐑 🤖 :: Visitor's Count" /></p>
+
+---
+
+
+
+
+<p align="center"> 𝐉𝐎𝐑𝐃𝐀𝐍-𝐉𝐎𝐄𝐋𝐒𝐓𝐀𝐑 🤖 uses
+  <a href="https://github.com/adiwajshing/Baileys">Multi-Device Baileys.</a>
+</p>
+<p align="center">
+  <img title="Whatsapp-Bot-Javascript" src="https://img.shields.io/badge/Javascript-363303?style=for-the-badge&logo=javascript&logoColor=c6c631"></img>
 </p>
 
 ---
 
 <p align="center">
-  <a href="https://github.com/jamesxtreme/JORDAN-JOELSTAR"><b>𝐉𝐎𝐑𝐃𝐀𝐍-𝐉𝐎𝐄𝐋𝐒𝐓𝐀𝐑 🤖</b></a> Support Deploy On...
+  <a href="https://github.com/jamesxtreme/JORDAN-JOELSTAR"><b>𝐉𝐎𝐑𝐃𝐀𝐍-𝐉𝐎𝐄𝐋𝐒𝐓𝐀𝐑 🤖-Bot</b></a> Support Deploy On...
 </p>
 
 <p align="center">
-    <br>
-<a href='https://heroku.com/deploy?template= https://github.com/jamesxtreme/JORDAN-JOELSTAR' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-HEROKU-blue?style=for-the-badge&logo=heroku&logoColor=white'/></a>
-
-
+  <a href="https://github.com/SuhailTechInfo/Suhail-Md/blob/main/temp/deploy-on-vps.md"><img src="https://img.shields.io/badge/self hosting-3d1513?style=for-the-badge&logo=serverless&logoColor=FD5750"></a>
+  <a href="https://railway.app/template/GZOvIe?referralCode=wVDLrh"><img src="https://img.shields.io/badge/railway-3e164f?style=for-the-badge&logo=railway&logoColor=0B0D0E"></a>
 </p>
 <p align="center">
-  <a href="https://youtu.be/3NdJb6_1cJM"><img src="https://img.shields.io/badge/CodeSpace-blue?colorA=%23ff000&colorB=%23017e40&style=for-the-badge&logo=git&logoColor=white"></a>
+  <a href="https://dashboard.heroku.com/new?template=https%3A%2F%2Fgithub.com%2Fjamesxtreme%2FJORDAN-JOELSTAR"><img src="https://img.shields.io/badge/heroku-9d7acc?style=for-the-badge&logo=heroku&logoColor=430098"></a>
+  <a href="https://suhail-web01.vercel.app/replit.html"><img src="https://img.shields.io/badge/replit-253c99?style=for-the-badge&logo=replit&logoColor=F26207"></a>
+  <a href="https://app.koyeb.com/apps/deploy?type=git&repository=github.com/jamesxtreme/JORDAN-JOELSTAR&branch=main&env[SESSION_ID]&env[OWNER_NUMBER]=2348149535019&env[MONGODB_URI]&&env[OWNER_NAME]=JORDAN ᴛᴇᴄʜ&env[KOYEB_API]&env[PREFIX]=.&env[WAPRESENCE]&env[AUTO_READ_STATUS]=true&env[DISABLE_PM]=false&env[PACK_AUTHER]=whatsapp+bot&env[PACK_NAME]=ɢɪғᴛᴇᴅ ᴛᴇᴄʜ&env[STYLE]=0&env[MODE]=private&env[READ_MESSAGE]=false&env[THEME]=GIFTED&env[WARN_COUNT]=3&env[BLOCK_JID]=null&env[TIME_ZONE]=Africa/Lagos&name=JORDAN-JOELSTAR 🤖&env[KOYEB_NAME]=suhail-md&env[SUDO]=null&env[THUMB_IMAGE]=https://telegra.ph/file/07374c51b44c16beee6cd.jpg"><img src="https://img.shields.io/badge/koyeb-033604?style=for-the-badge&logo=koyeb&logoColor=white"></a>
+</p>
+<p align="center">
+  <a href="https://youtu.be/3NdJb6_1cJM"><img src="https://img.shields.io/badge/CodeSpace-green?colorA=%23ff000&colorB=%23017e40&style=for-the-badge&logo=git&logoColor=white"></a>
 </p>
 <p align="center">Need help? please create an <a href="https://github.com/jamesxtreme/JORDAN-JOELSTAR/issues">issue</a></p>
 
@@ -22,12 +37,16 @@
 
 
 
-## BOT FEATURES
-
-  
-  
-  
- 
+## Bot Games
+---
+1. ***Connect Four Game.***
+2.  ***Tic Tac Toe.***
+3.  ***Number Guessing Game.***
+4.  ***Word chain Game(wcg).***
+5.  ***Hidden Card Game.***
+6.  ***Rolling Dice.***
+7.  ***Character Guessing Game.***
+8.  ***Capital of City Finding.***
 ##
 
 
@@ -40,43 +59,22 @@
    
 ## Deployment Methods
 ---
-2. ***Get Session ID (SERVER 1)***
-    <br>
-<a href='https://jweb-3db7776831b4.herokuapp.com/' target="_blank"><img alt='SESSION ID' src='https://img.shields.io/badge/Session_id-100000?style=for-the-badge&logo=scan&logoColor=blue&labelColor=black&color=black'/></a>
-
-2. ***Get Session ID (SERVER 2)***
-    <br>
-<a href='https://replit.com/@jordanzzz4444/JJ-PAIR#index.js' target="_blank"><img alt='SESSION ID' src='https://img.shields.io/badge/Session_id_2-100000?style=for-the-badge&logo=scan&logoColor=blue&labelColor=black&color=black'/></a>
-
-
-3.  ***FORK JORDAN-JOELSTAR REPO***
-    <br>
-<a href='https://github.com/jamesxtreme/JORDAN-JOELSTAR/fork' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Fork Repo-100000?style=for-the-badge&logo=scan&logoColor=blue&labelColor=black&color=black'/></a>
-
-
-4. ***DEPLOY FREE ON CODESPACE. SEE TUTORIALS FIRST***
-    <br>
-<a href='https://youtu.be/3NdJb6_1cJM?si=nLU3m8kcDN0x7OBT' target="_blank"><img alt='TUTORIALS/DEPLOY' src='https://img.shields.io/badge/TUTORIALS/DEPLOY -h?color=black&style=for-the-badge&logo=blue' width="96.35" height="28"/></a></p>
-
-5.  ***DEPLOY ON HEROKU***
-    <br>
-<a href='https://heroku.com/deploy?template= https://github.com/jamesxtreme/JORDAN-JOELSTAR' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-black?style=for-the-badge&logo=heroku&logoColor=blue'/></a>
-
-6.  ***SEE TUTORIALS FOR HEROKU DEPLOY***
-    <br>
-<a href="https://youtu.be/d6FuP_ARfD0?si=N-g6s9ke9D1sHGCW"><img src="https://img.shields.io/badge/𝗬𝗢𝗨𝗧𝗨𝗕𝗘-black?style=watch%20video-critical?style=for-the-badge&logo=youtube&logoColor=blue">
-   <br>
-   
-
-
-
+1.  ***Get `SESSION ID` by [`SCANING QR`](https://gifted-md-qr.onrender.com/) Or [`PARING CODE`](https://replit.com/@jordanzzz4444/-repl). And then `Go-to Whatapp>Three dots>Linked Devices`***
+2.  ***Get Mongodb_URI from [`Mongodb site`](https://www.mongodb.com/) | Watch Tutorial [`To Get Mongodb_URI`](https://youtu.be/6rnftFl0fAI). `Optional`***
+3.  ***Click [`FORK`](https://github.com/Giftedmaurice/JORDAN-JOELSTAR/fork) and `Star ⭐ Repository` for Courage.***
+4.  ***Deploy tutorial [`Youtube Video`](https://youtu.be/6rnftFl0fAI).***
+5.  ***Deploy FREE on `Codespace,` First see [`Codespace tutorial`](https://youtu.be/3NdJb6_1cJM)***
+6.  ***Deploy on [`HEROKU`](https://dashboard.heroku.com/new?template=https%3A%2F%2Fgithub.com%2Fjamesxtreme%2FJORDAN-JOELSTAR)***
+7.  ***Deploy on [`Replit`](https://replit.com/github/Giftedmaurice/JORDAN-JOELSTAR)***
+8.  ***Deploy on [`Railway`](https://railway.app/template/GZOvIe?referralCode=wVDLrh)***
+9.  ***Deploy on [`Koyeb`](https://app.koyeb.com/apps/deploy?type=git&repository=github.com/SuhailTechInfo/Suhail-Md&branch=main&env[SESSION_ID]&env[OWNER_NUMBER]=2349054039891&env[MONGODB_URI]&&env[OWNER_NAME]=JORDAN-JOELSTAR&env[KOYEB_API]&env[PREFIX]=.&env[WAPRESENCE]&env[AUTO_READ_STATUS]=true&env[DISABLE_PM]=true&env[PACK_AUTHER]=whatsapp+bot&env[PACK_NAME]=ɢɪғᴛᴇᴅᴛᴇᴄʜ&env[STYLE]=0&env[MODE]=private&env[READ_MESSAGE]=false&env[THEME]=JORDAN-JOELSTAR&env[WARN_COUNT]=3&env[BLOCK_JID]=null&env[TIME_ZONE]=Africa/Nairobi&name=suhail-md&env[KOYEB_NAME]=suhail-md&env[SUDO]=null&env[THUMB_IMAGE]=https://telegra.ph/file/54efddccf41281ad7ec51.jpg)***
 
 ##
 ---
 
 
-- Star⭐ 𝙹𝙾𝚁𝙳𝙰𝙽-𝙹𝙾𝙴𝙻𝚂𝚃𝙰𝚁 🤖 repo if you like this bot.
-- If any problem, then [`Message me`](https://wa.me/+2349054039891)
+- Star ⭐ repo if you like this bot.
+- If any problem, then [`+2349054039891`](https://wa.me/+2349054039891)
 
 
 ### Thanks To
@@ -85,10 +83,11 @@
 
 
 
-
+<h2 align="center">  NOTICE
+</h2>
    
-### NOTICE
-- *𝐉𝐎𝐑𝐃𝐀𝐍-𝐉𝐎𝐄𝐋𝐒𝐓𝐀𝐑-Bot is not made by `WhatsApp Inc.`  Misusing the bot might `ban` your `WhatsApp account!`*
+## 
+- *𝐉𝐎𝐑𝐃𝐀𝐍-𝐉𝐎𝐄𝐋𝐒𝐓𝐀𝐑-Bot is not made by `WhatsApp Inc.` Sometimes or misusing the bot might `ban` your `WhatsApp account!`*
 - *In that case, I'm not responsible for banning your account.*
 - *Use 𝐉𝐎𝐑𝐃𝐀𝐍 𝐉𝐎𝐄𝐋𝐒𝐓𝐀𝐑-Bot at your own risk by keeping this warning in mind.*
-
+- [`heroku`]( https://dashboard.heroku.com/new?template=https://github.com/jamesxtreme/JORDAN-JOELSTAR)
