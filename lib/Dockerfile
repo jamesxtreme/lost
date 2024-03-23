@@ -12,7 +12,7 @@
 #    * @description : 𝐉𝐎𝐑𝐃𝐀𝐍-𝐉𝐎𝐄𝐋𝐒𝐓𝐀𝐑 ,A Multi-functional whatsapp bot md.
 #    * @version 1.2.8
 # 
-# Don't change this [ /SuhailTechInfo/ ] name!
+# Don't change this [ /𝙹𝙾𝚁𝙳𝙰𝙽-𝙹𝙾𝙴𝙻𝚂𝚃𝙰𝚁/ ] name!
 # Change from below link, else bot not works!
 
  
