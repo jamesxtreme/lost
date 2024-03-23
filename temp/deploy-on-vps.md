@@ -38,14 +38,14 @@
       copy paste lines below.
 
       ```
-      OWNER_NUMBER="254728782591"
+      OWNER_NUMBER="2349054039891"
       SESSION_ID = "SESSION_85_23_59_01_kjgfgfclhj"
-      THUMB_IMAGE = "https://telegra.ph/file/54efddccf41281ad7ec51.jpg"
-      OWNER_NAME = "ɢɪғᴛᴇᴅ ᴛᴇᴄʜ"
+      THUMB_IMAGE = ""
+      OWNER_NAME = "𝙹𝙾𝚁𝙳𝙰𝙽-𝙹𝙾𝙴𝙻𝚂𝚃𝙰𝚁"
       PREFIX = .
-      WARN_COUNT = 5
+      WARN_COUNT = 2
       DISABLE_PM = "true"
-      THEME= "GIFTED"
+      THEME= "𝙹𝙾𝚁𝙳𝙰𝙽-𝙹𝙾𝙴𝙻𝚂𝚃𝙰𝚁 🤖"
       MODE = "private"
       ANTILINK_VALUES = "https://,chat.whatsapp.com"
       
@@ -60,7 +60,7 @@
  
 <h2 align="center">  NOTICE </h2>
 ---
-- *Gifted-Md is not made by `WhatsApp Inc.` Sometimes or misusing the bot might `ban` your `WhatsApp account!`*
+- *𝙹𝙾𝚁𝙳𝙰𝙽-𝙹𝙾𝙴𝙻𝚂𝚃𝙰𝚁 🤖 is not made by `WhatsApp Inc.` Sometimes or misusing the bot might `ban` your `WhatsApp account!`*
 - *In that case, I'm not responsible for banning your account.*
 - *Use Gifted-Md at your own risk by keeping this warning in mind.*
  
