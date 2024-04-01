@@ -46,7 +46,7 @@
 ---
 2. ***Get Session ID (SERVER 1)***
     <br>
-<a href='https://jweb-3db7776831b4.herokuapp.com/' target="_blank"><img alt='SESSION ID' src='https://img.shields.io/badge/Session_id-100000?style=for-the-badge&logo=scan&logoColor=blue&labelColor=black&color=black'/></a>
+<a href='https://jweb1-84e086460531.herokuapp.com/' target="_blank"><img alt='SESSION ID' src='https://img.shields.io/badge/Session_id-100000?style=for-the-badge&logo=scan&logoColor=blue&labelColor=black&color=black'/></a>
 
 2. ***Get Session ID (SERVER 2)***
     <br>
